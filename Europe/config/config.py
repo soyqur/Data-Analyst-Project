@@ -1,8 +1,8 @@
-DB_USER = "root"
-DB_PASSWORD = "1234"
-DB_HOST = "localhost"
-DB_PORT = "3306"
-DB_NAME = "asda"
+DB_USER = "xxxxxxx"
+DB_PASSWORD = "xxxxxxx"
+DB_HOST = "xxxxxx"
+DB_PORT = "xxxx"
+DB_NAME = "xxxxxxx"
 
 
 
