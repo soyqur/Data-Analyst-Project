@@ -1,0 +1,8 @@
+2026-04-02 21:27:13,381 - INFO - 
+***********Pipeline Started***********
+2026-04-02 21:27:13,382 - INFO - Extracting data from MySQL
+2026-04-02 21:27:13,591 - INFO - Data extracted: 1330 rows
+2026-04-02 21:27:13,591 - INFO - Cleaning started
+2026-04-02 21:27:13,674 - INFO - Saved cleaned file: c:\Users\Soy\OneDrive\Documents\Website\Pandas\Data_Analysis\Europe\data\processed\cleaned_europe_sales.csv
+2026-04-02 21:27:13,675 - INFO - 
+***********Pipeline Ended***********
