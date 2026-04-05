@@ -32,6 +32,7 @@ The dataset was obtained from Kaggle and contains detailed sales records such as
 * `outputs/` → final datasets and results
 * `scripting/` → Python pipeline scripts
 * `sql/` → SQL queries used for extraction and transformation
+* `dashboards/` → Interactive Sales Visualisation and Summary
 
 ---
 
@@ -76,7 +77,6 @@ The dataset was obtained from Kaggle and contains detailed sales records such as
 
 ## Future Improvements
 
-* Build interactive dashboard (Power BI / Streamlit)
 * Implement incremental data loading
 * Store processed data back into MySQL
 * Automate pipeline execution
